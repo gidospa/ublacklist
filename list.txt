@@ -1,7 +1,10 @@
+*://まんが発売日.com/*
+*://alert.shop-bell.com/*
 *://code-examples.net/*
 *://codechacha.com/*
 *://codeday.me/*
 *://codezine.jp/*
+*://comic-tool.com/*
 *://daviesmediadesign.com/*
 *://dev.classmethod.jp/*
 *://ja.coder.work/*
