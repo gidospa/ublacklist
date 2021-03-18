@@ -1,5 +1,5 @@
-*://まんが発売日.com/*
 *://alert.shop-bell.com/*
+*://blog.codecamp.jp/*
 *://code-examples.net/*
 *://codechacha.com/*
 *://codeday.me/*
